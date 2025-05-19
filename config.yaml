@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    SPDO:
+      email: spdo@fgv.com
+      name: SPDO
+      password: spdo_repo
+    test_user:
+      email: user@fgv.com
+      name: Test User
+      password: "123"
